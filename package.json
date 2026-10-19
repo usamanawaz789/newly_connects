@@ -1,0 +1,8 @@
+{
+  "name": "newly-connects-site",
+  "private": true,
+  "description": "Newly Connects static website with a contact form function for Vercel",
+  "dependencies": {
+    "nodemailer": "^10.1.7"
+  }
+}
